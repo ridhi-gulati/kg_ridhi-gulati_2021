@@ -11,17 +11,16 @@ This assessment is to determine whether a one-to-one character mapping exists fr
 How to run the code:
 
 With Command Line:
-    - Clone the java project.
-    - Go to the root folder and compile the program using javac CharacterMapping.Java
-    - Now go to the src folder and run the command com.kargo CharacterMapping <arg1> <arg2>
+- Clone the java project.
+- Go to the root folder and compile the program using javac CharacterMapping.Java
+- Now go to the src folder and run the command com.kargo CharacterMapping <arg1> <arg2>
 
 Note: If you dont give the arguments, the program won't run and will give you the error message.
 
-
 With Eclipse:
-    - Run as Configuration.
-    - In the Arguments tab: give the <arg1> <arg2> parameters.
-    - Run the code
+- Run as Configuration.
+- In the Arguments tab: give the <arg1> <arg2> parameters.
+- Run the code
 
 
 ## Authors
