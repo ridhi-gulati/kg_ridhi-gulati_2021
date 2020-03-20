@@ -5,8 +5,9 @@ This assessment is to determine whether a one-to-one character mapping exists fr
 
 ## Getting Started
 
-Source Folder: Kargo Assessment
-Source File: CharacterMapping.java
+ Source Folder: Kargo Assessment
+ 
+ Source File: CharacterMapping.java
 
 How to run the code:
 
