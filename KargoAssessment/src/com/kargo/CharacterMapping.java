@@ -7,7 +7,15 @@ public class CharacterMapping {
 	
 	public static void main(String args[])  {
 		
-		System.out.println(isCharacterMapped ("bar", "foo"));
+		try {		
+			System.out.println(isCharacterMapped (args[0], args[1]));
+			}
+			catch (ArrayIndexOutOfBoundsException e) {
+				System.out.println("Enter 2 parameters to run the program.");
+			}
+			catch(Exception e) {
+				System.out.println("Program Terminated due to exception");
+			}
 	}
 	
 	public static boolean isCharacterMapped (String str1, String str2) {
