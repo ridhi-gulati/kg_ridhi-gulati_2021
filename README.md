@@ -24,5 +24,5 @@ With Eclipse:
 
 
 ## Authors
-- Ridhi Gulati (gulatr@rpi.edu)
+- Ridhi Gulati 
 
